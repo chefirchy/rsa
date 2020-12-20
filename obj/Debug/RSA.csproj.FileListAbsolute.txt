@@ -1,0 +1,12 @@
+C:\Users\chefi\Desktop\RSA\bin\Debug\RSA.exe.config
+C:\Users\chefi\Desktop\RSA\bin\Debug\RSA.exe
+C:\Users\chefi\Desktop\RSA\bin\Debug\RSA.pdb
+C:\Users\chefi\Desktop\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\chefi\Desktop\RSA\obj\Debug\RSA.Form1.resources
+C:\Users\chefi\Desktop\RSA\obj\Debug\RSA.Properties.Resources.resources
+C:\Users\chefi\Desktop\RSA\obj\Debug\RSA.csproj.GenerateResource.cache
+C:\Users\chefi\Desktop\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\chefi\Desktop\RSA\obj\Debug\RSA.exe
+C:\Users\chefi\Desktop\RSA\obj\Debug\RSA.pdb
+C:\Users\chefi\Desktop\RSA\obj\Debug\RSA.Decrypt.resources
+C:\Users\chefi\Desktop\RSA\obj\Debug\RSA.Encrypt.resources
